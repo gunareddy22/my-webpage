@@ -55,7 +55,7 @@
   <li>googling </li>
 
 </ul>
-<a href="#"><h2>Contact me</h2></a>
+<a href="contact details.html"><h2>Contact me</h2></a>
 
 </body>
 
