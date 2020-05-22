@@ -9,7 +9,7 @@
 
 <body>
   <h2><strong><i>Guna sekhar</i></strong></h2>
-  <img src="image.jpg">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS4xcT9CmqW1JXmCqUJjPV9LLkcZw46Vewh8o-ZT4OJhcgqWpeK&usqp=CAU">
   <br>
   <h3>Studing in <a href="https://vit.ac.in/">VIT Vellore</a></h3>
   <hr size='6'>
@@ -47,7 +47,7 @@
 <ul>
   <li>playing cricket <ul>
     <ul>
-      <li>favorite crickter <a href="rohit sharma2.jpg">Rohit Sharma</a></li>
+      <li>favorite crickter <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQAP6qBYsjJq11TabEfcVHjXn-lH9clknGncb9fQjOdYUDOK-zh&usqp=CAU">Rohit Sharma</a></li>
     </ul>
   </ul></li>
   <li>watching TV</li>
